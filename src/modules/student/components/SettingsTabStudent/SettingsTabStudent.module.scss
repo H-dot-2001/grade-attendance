@@ -1,0 +1,12 @@
+.recordStudent__content {
+  margin: 32px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+}
+
+.recordStudent__buttons {
+  display: flex;
+  margin-inline-start: auto;
+  gap: 16px;
+}

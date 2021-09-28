@@ -1,0 +1,11 @@
+.periodContainer {
+  margin: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: max-content;
+}
+
+.periodContainer__buttons {
+  margin-inline-start: auto;
+}
