@@ -1,3 +1,8 @@
 module.exports = {
-    trailingSlash: true
+    trailingSlash: true,
+    
+    images: {
+    loader: "imgix",
+    path: "https://noop/",
+    }
 };
